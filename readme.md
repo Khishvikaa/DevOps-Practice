@@ -1,3 +1,3 @@
 my first DevOps Project"
-Learning git practically
+leraning Git and GitHub
 testing staging area
